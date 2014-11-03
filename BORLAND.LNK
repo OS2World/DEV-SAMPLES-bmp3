@@ -1,0 +1,5 @@
+C02  ViewIco AppDefs GetIco OpenDlg Support ViewDlg ViewWnd
+ViewIco.Exe
+
+OS2.LIB C2.LIB
+ViewIco.Def

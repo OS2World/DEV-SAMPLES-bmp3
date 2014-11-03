@@ -1,0 +1,15 @@
+file AppDefs.Obj
+file GetIco.Obj
+file OpenDlg.Obj
+file Support.Obj
+file ViewDlg.Obj
+file ViewIco.Obj
+file ViewWnd.Obj
+name ViewIco.Exe
+option modname=ViewIco
+format os2 lx pm
+segment class 'code'
+segment class 'data'
+option manyautodata
+option stack=16384
+option protmode

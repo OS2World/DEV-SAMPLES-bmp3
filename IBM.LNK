@@ -1,0 +1,3 @@
+ViewIco.Obj AppDefs.Obj GetIco.Obj OpenDlg.Obj Support.Obj ViewDlg.Obj ViewWnd.Obj
+/OUT:ViewIco.Exe
+ViewIco.Def
